@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Sadaan 👋
 
-<!--
-**SadaanTahir/SadaanTahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 EE grad from LUMS (Class of '25)  
+🤖 Incoming MSc Mobile Robotics student @ University of Bonn  
+🧠 EEG + ML → Real-time emotion recognition  
+🚁 CV + Multi-UAVs → Surveillance & obstacle avoidance  
+💻 Python | C++ | ROS (Noetic/Melodic) | PyTorch | Arduino  
+📚 Former TA: Circuits, Communication Systems, Robotics  
+🌍 Fluent in English, Urdu & German  
+🔬 Builder. Explorer. Always learning.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub stats (optional) -->
+![Sadaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadaanTahir&show_icons=true&theme=tokyonight)
