@@ -6,8 +6,7 @@
 🚁 CV + Multi-UAVs → Surveillance & Obstacle Avoidance  
 💻 Python | C++ | ROS (Noetic/Melodic) | PyTorch | Arduino  
 📚 Former TA: Circuits, Communication Systems, JDS - Robotics  
-🌍 Fluent in English, Urdu & German  
-🔬 Builder. Explorer. Always learning.
+🌍 Fluent in English, Urdu & German
 💼 Lets Connect on [LinkedIn](https://www.linkedin.com/in/sadaan-tahir-531997290/)
 
 <!-- GitHub stats (optional) -->
